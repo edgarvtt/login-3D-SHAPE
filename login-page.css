@@ -34,15 +34,27 @@
 
 .button-start{
 
-    background: var(--l3, linear-gradient(198deg, #8468F5 30.76%, #EC74E7 132.15%));
+    background: linear-gradient(198deg, #8468F5 30.76%, #EC74E7 132.15%);
     color:#ffffff;
 }
+
+.button-start:hover{
+
+
+    background:  #967cff;}
 
 .login{
     color: #8468F5;
     border: 1px solid;
     box-shadow: 2px ;
     margin-top: 14px;
+}
+
+.login:hover{
+
+  background: #e9e4fc;;
+  color: #111;
+
 }
 
 .login,.button-start{
