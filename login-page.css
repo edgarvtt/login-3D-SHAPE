@@ -1,0 +1,56 @@
+
+/* background do site */
+
+#page-login{
+    background-image: url(./signup.png);
+}
+
+/* conteudo principal */
+
+.content-principal{
+    display: grid;
+    justify-content: center;
+    margin-top: 320px;
+
+}
+
+#page-login h1{
+    color: #8468F5;
+    font-size: 48px;
+
+}
+
+#page-login p{
+    text-align: center;
+    color: #A0A4A8;
+}
+
+#page-login p  a  {
+    color: #8468F5;
+}
+
+/* botoes  */
+
+
+.button-start{
+
+    background: var(--l3, linear-gradient(198deg, #8468F5 30.76%, #EC74E7 132.15%));
+    color:#ffffff;
+}
+
+.login{
+    color: #8468F5;
+    border: 1px solid;
+    box-shadow: 2px ;
+    margin-top: 14px;
+}
+
+.login,.button-start{
+
+    text-align: center;
+    padding: 16px 32px;
+    font-size: 18px;
+    border-radius: 24px;
+
+}
+

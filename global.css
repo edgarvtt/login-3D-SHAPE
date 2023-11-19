@@ -1,0 +1,16 @@
+
+body {
+
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-size: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
